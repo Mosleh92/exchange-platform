@@ -39,7 +39,7 @@
     "react-icons": "^5.5.0",
     "react-query": "^3.39.3",
     "react-router-dom": "^6.15.0",
-    "vitest": "^3.2.4",
+    "vitest": "^3.2.6",
     "zustand": "^4.4.1"
   },
   "devDependencies": {
